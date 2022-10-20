@@ -49,11 +49,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
+global.sig = 'https://instagram.com/leon-ofc202' // ig
+global.sgh = 'https://github.com/LeonOfc202/' // github
+global.sgc = 'https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://youtube.com/channel/UCLnDn5I4RPLrkFcKTIsR1-g' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
@@ -62,7 +62,7 @@ global.pdana = '08XXXXXXXXXX' //dana
 global.povo = '08XXXXXXXXXX' //ovo
 global.pgopay = '08XXXXXXXXXX' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
+global.ppulsa = '6287760550924' //telkomsel
 global.ppulsa2 = '6287752078797' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287752078797', 'WH MODS DEV', true],
+  ['6287752078797', 'Leon', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
